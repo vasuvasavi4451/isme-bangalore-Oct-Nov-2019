@@ -7,7 +7,7 @@
 
 ## My Blog
 
-Think ML - https://goodboyanush.github.io/
+Think ML - https://medium.com/@vasavivennakota/applications-of-machine-learning-in-daily-life-e0b047c8a13a
 
 ## Course Overview
 
