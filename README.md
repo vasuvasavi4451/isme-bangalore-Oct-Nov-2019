@@ -7,7 +7,7 @@
 
 ## My Blog
 
-Think ML - https://medium.com/@vasavivennakota/applications-of-machine-learning-in-daily-life-e0b047c8a13a
+Think ML - https://medium.com/@vasavivennakota/basics-of-machine-learning-ed632924143a
 
 ## Course Overview
 
