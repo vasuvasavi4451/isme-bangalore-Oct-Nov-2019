@@ -9,6 +9,8 @@
 
 Think ML - https://medium.com/@vasavivennakota/basic-differences-between-logistic-regression-and-linear-regression-733ac9111d52
 Code : http://localhost:8888/notebooks/marks%20logiscticregression.ipynb#
+Blog1 : https://medium.com/@vasavivennakota/basics-of-machine-learning-ed632924143a
+
 ## Course Overview
 
 | Date                        |                                    Topic                                    | Slides | Notes |
