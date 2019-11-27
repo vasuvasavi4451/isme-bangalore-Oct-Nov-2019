@@ -10,6 +10,7 @@ Blog1 - https://medium.com/@vasavivennakota/basic-differences-between-logistic-r
 Code : http://localhost:8888/notebooks/marks%20logiscticregression.ipynb#
 Blog2 : https://medium.com/@vasavivennakota/basics-of-machine-learning-ed632924143a
 Blog3 : https://medium.com/@vasavivennakota/basic-difference-between-regression-and-neural-networks-cd7c1f7f5f57
+MID TERM CODE :http://localhost:8892/notebooks/CMC%20EXAM%20DATA.ipynb#
 
 ## Course Overview
 
